@@ -13,6 +13,10 @@
   ],
   "author": "Vinicius Wrubleski <vinicius.wrubleski@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/viniwrubleski/jade-php.git"
+  },
   "devDependencies": {
     "mocha": "~1.14.0"
   },
