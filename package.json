@@ -1,0 +1,22 @@
+{
+  "name": "jade-php",
+  "version": "0.1.0",
+  "description": "jade compiler and filter for PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "jade",
+    "filter",
+    "php"
+  ],
+  "author": "Vinicius Wrubleski <vinicius.wrubleski@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  },
+  "dependencies": {
+    "jade": "~0.35.0"
+  }
+}
