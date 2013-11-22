@@ -1,6 +1,6 @@
 {
   "name": "jade-php",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "jade compiler and filter for PHP",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Vinicius Wrubleski <vinicius.wrubleski@gmail.com>",
   "license": "MIT",
   "repository": {
-    "type" : "git",
+    "type": "git",
     "url": "https://github.com/viniwrubleski/jade-php.git"
   },
   "devDependencies": {
