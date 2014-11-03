@@ -1,6 +1,6 @@
 {
   "name": "jade-php",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "jade compiler and filter for PHP",
   "main": "index.js",
   "scripts": {
