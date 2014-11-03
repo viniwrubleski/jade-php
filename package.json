@@ -21,6 +21,7 @@
     "mocha": "~1.14.0"
   },
   "dependencies": {
+    "constantinople": "^3.0.1",
     "jade": "~0.35.0"
   }
 }
