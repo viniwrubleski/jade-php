@@ -1,6 +1,6 @@
 {
   "name": "jade-php",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "jade compiler and filter for PHP",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
     "mocha": "~1.14.0"
   },
   "dependencies": {
-    "constantinople": "^3.0.1",
+    "constantinople": "~1.0.1",
+    "character-parser": "~1.2.0",
     "jade": "~0.35.0"
   }
 }
